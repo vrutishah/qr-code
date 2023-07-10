@@ -1,0 +1,43 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    background-color: #d5e1ef;
+}
+
+.qr-code {
+    height: 250px;
+    max-width: 250px;
+    margin: 10px; 
+    margin-bottom: none;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 200px auto;
+    border: 2px solid white;
+    border-radius: 10px;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 5px 5px 1px #769ECB;
+   
+}
+.sections {
+    text-align: center;
+    background-color: white
+}
+    
+
+.projects {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.projects-paragraph {
+    color: #769ECB;
+    margin: 10px;
+}
+
